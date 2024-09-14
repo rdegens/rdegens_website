@@ -2131,7 +2131,9 @@ p {
 }
 
 .section-hero {
-  background-image: url("../images/banner-bg.png");
+  background-image: url("../images/degen-club.jpg");
+  background-color: rgba(0, 0, 0, 0.7);
+  background-blend-mode: overlay  ;
   background-position: 50% 100%;
   background-repeat: no-repeat;
   background-size: cover;
